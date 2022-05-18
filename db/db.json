@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "title": "Hello",
+      "text": "This app allows you to add notes. You can add notes by clicking the pencil icon",
+      "id": "0"
+    },
+    {
+      "title": "Deleting Notes is a work in progress",
+      "text": "Eventually you will have the ability to delete notes created. Running into issues there right now.",
+      "id": "1"
+    },
+    {
+      "title": "Take pup to the park",
+      "text": "On Saturday",
+      "id": "2"
+    },
+    {
+      "title": "Buy Cheese",
+      "text": "All kinds, cheddar, jack, feta",
+      "id": "3"
+    },
+    {
+      "title": "Fix the G35",
+      "text": "The lexus needs work too",
+      "id": "4"
+    },
+    {
+      "title": "Super Mario 64",
+      "text": "My childhood game",
+      "id": "5"
+    },
+    {
+      "title": "s",
+      "text": "get better at coding, buy computer glasses",
+      "id": "6"
+    },
+    {
+      "title": "i like pie",
+      "text": "super\n",
+      "id": "7"
+    }
+  ]
+}

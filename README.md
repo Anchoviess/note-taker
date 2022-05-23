@@ -33,10 +33,15 @@ npm i
 ## Website 
 https://afternoon-scrubland-02416.herokuapp.com/ -- Heroku deployment
 
+## Images
+<img width="1440" alt="Screen Shot 2022-05-22 at 8 44 42 PM" src="https://user-images.githubusercontent.com/97990379/169741339-623fb825-21cf-4b09-ab3b-27b48f336e4a.png">
+
+<img width="1440" alt="Screen Shot 2022-05-22 at 8 48 22 PM" src="https://user-images.githubusercontent.com/97990379/169741346-204a289a-389a-4c1c-9f43-efac91338789.png">
+
 
 ### Contact
 
-<li><a href="https://github.com/Anchoviess"</a></li> Anthony Ledesma on github
+<li><a href="https://github.com/Anchoviess"Anthony Ledesma on github></a></li> 
 
 
 MIT License

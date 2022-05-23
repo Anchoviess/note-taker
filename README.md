@@ -35,7 +35,7 @@ https://afternoon-scrubland-02416.herokuapp.com/ -- Heroku deployment
 
 
 ### Contact
-<a https://github.com/Anchoviess>Anthony Ledesma on github:
+<a href="https://github.com/Anchoviess"</a> Anthony Ledesma on github:
 MIT License
 
 Copyright (c) 2022 Anthony Ledesma

@@ -27,9 +27,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 Clone project. Run the following line of code in your terminal to install all the needed packages:
 
-npm i
+npm install express
 
 ## Website 
+
 https://afternoon-scrubland-02416.herokuapp.com/ -- Heroku deployment
 
 ## Images
